@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SistemaChat {
+public class Ex12_SistemaChat {
     public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);

@@ -2,7 +2,7 @@ import Models.Aluno;
 
 import java.util.Scanner;
 
-public class MediaAluno {
+public class Ex7_GerenciadorAlunos {
     public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);

@@ -1,6 +1,6 @@
 import Models.Veiculo;
 
-public class CadastroVeiculo
+public class Ex6_CadastroVeiculo
 {
     public static void main(String[] args)
     {

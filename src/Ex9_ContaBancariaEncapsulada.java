@@ -1,6 +1,6 @@
 import Models.ContaBancaria;
 
-public class TesteConta
+public class Ex9_ContaBancariaEncapsulada
 {
     public static void main(String[] args)
     {

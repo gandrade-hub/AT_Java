@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class SImulacaoLoteria {
+public class Ex11_SimulacaoLoteria {
     public static void main (String[] args)
     {
         Random random = new Random();

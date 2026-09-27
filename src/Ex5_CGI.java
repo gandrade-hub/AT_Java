@@ -1,4 +1,4 @@
-public class CGI {
+public class Ex5_CGI {
     public static void main(String[] args)
     {
         System.out.println("Content-Type: text/html");

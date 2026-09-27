@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ValidaSenha
+public class Ex2_ValidaSenha
 {
     static void main (String[] args)
     {

@@ -1,4 +1,4 @@
-package Models;
+package Ex8_SistemaFuncionarios;
 
 public class Estagiario extends Funcionario
 {

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class CalculadoraDeImpostos {
+public class Ex3_CalculadoraDeImpostos {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

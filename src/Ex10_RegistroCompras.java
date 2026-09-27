@@ -4,7 +4,7 @@ import java.io.PrintWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class RegistroCompras
+public class Ex10_RegistroCompras
 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
