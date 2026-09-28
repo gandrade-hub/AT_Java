@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Ex2_ValidaSenha
 {
-    static void main (String[] args)
+    public static void main (String[] args)
     {
         Scanner sc = new Scanner(System.in);
         System.out.print("Digite o seu nome: ");
@@ -52,7 +52,7 @@ public class Ex2_ValidaSenha
             }
             if (!temEspecial)
             {
-                System.out.println("Erro: a senha precisa ter pelo menos um caracter esoecial.");
+                System.out.println("Erro: a senha precisa ter pelo menos um caracter especial.");
             }
         }
         System.out.println("Senha cadastrada com sucesso!");

@@ -36,7 +36,7 @@ public class Ex11_SimulacaoLoteria {
         }
 
         System.out.println("Resultados:");
-        System.out.print("Números sorteados: ");
+        System.out.println("Números sorteados: ");
         for (int num : sorteados)
         {
             System.out.print(num + " ");

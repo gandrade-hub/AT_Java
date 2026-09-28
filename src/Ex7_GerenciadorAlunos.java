@@ -11,6 +11,9 @@ public class Ex7_GerenciadorAlunos {
         System.out.print("Qual o seu nome? ");
         aluno1.nome = sc.nextLine();
 
+        System.out.print("Qual a sua matricula? ");
+        aluno1.matricula = sc.nextLine();
+
         System.out.print("Qual a sua primeira nota? ");
         aluno1.nota1 = sc.nextDouble();
 
@@ -20,8 +23,6 @@ public class Ex7_GerenciadorAlunos {
         System.out.print("Qual a sua terceira nota? ");
         aluno1.nota3 = sc.nextDouble();
 
-
-        aluno1.calcularMedia();
         System.out.printf("Média do aluno: %.2f%n", aluno1.calcularMedia());
         aluno1.verificarAprovacao();
 

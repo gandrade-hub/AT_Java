@@ -23,7 +23,7 @@ public class Ex4_SimuladorEmprestimo {
         double valorTotal = emprestimo * (1 + 0.03 * parcelas);
         double valorParcela = valorTotal / parcelas;
 
-        System.out.println("O valor total pago será de: R$ "+valorTotal);
-        System.out.printf("O valor da parcela mensal será: RS %.2f", valorParcela);
+        System.out.printf("O valor total pago será de: R$ %.2f ", valorTotal);
+        System.out.printf("O valor da parcela mensal será: R$ %.2f", valorParcela);
     }
 }
